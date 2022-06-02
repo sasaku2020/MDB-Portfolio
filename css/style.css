@@ -26,6 +26,7 @@
     #logo {
         color: #0A5ED7;
         font-weight: 700;
+        font-size: 1.6rem;
     }
     
     .navbar-brand a:hover,
@@ -109,6 +110,28 @@
     *
     *
     */
+    /**************** First SECTION ****************/
+    
+    .main-section {
+        color: #FFFFFF;
+        height: 200%;
+    }
+    
+    .main-section .p-5 {
+        margin: 20vh;
+    }
+    
+    .main-section .display-2 {
+        color: #0B3EF0;
+        font-weight: 700;
+    }
+    /**************** END OF SECOND SECTION ****************/
+    /*
+    *
+    *
+    *
+    *
+    */
     /**************** SECOND SECTION ****************/
     
     .second-section,
@@ -127,7 +150,7 @@
     .main-section,
     .third-section,
     footer {
-        background-color: #000015;
+        background-color: #000035;
     }
     /**************** END OF Third SECTION ****************/
     /**************** END OF Main ****************/
