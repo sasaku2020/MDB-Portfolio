@@ -114,7 +114,7 @@
     
     .main-section {
         color: #FFFFFF;
-        min-height: 100vh
+        min-height: 100vh;
     }
     
     .main-section .p-5 {
@@ -201,11 +201,18 @@
         .container-fluid {
             max-width: 80%;
         }
+        .main-section {
+            min-height: 90vh;
+        }
         .main-section .p-5 {
             margin: 0 auto;
             text-align: center;
         }
         .card:hover {
             transform: scale(1.1);
+        }
+        .main-section {
+            color: #FFFFFF;
+            min-height: 100vh;
         }
     }
