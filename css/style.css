@@ -114,12 +114,17 @@
     
     .main-section {
         color: #FFFFFF;
-        height: 200%;
+        height: 100vh
+    }
+    
+    .main-section .p-5 {
+        margin-top: 10rem;
     }
     
     .main-section .display-2 {
         color: #0B3EF0;
         font-weight: 700;
+        font-size: 5rem;
     }
     /**************** END OF SECOND SECTION ****************/
     /*
