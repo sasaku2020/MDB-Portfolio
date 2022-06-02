@@ -192,6 +192,7 @@
             max-width: 100%;
         }
         .main-section .p-5 {
+            margin-top: 3rem;
             margin-left: 0;
             text-align: center;
         }
@@ -202,7 +203,7 @@
             max-width: 80%;
         }
         .main-section .p-5 {
-            margin-top: 5vh;
+            margin-top: 3rem;
             margin-left: 0;
             text-align: center;
         }
