@@ -114,7 +114,7 @@
     
     .main-section {
         color: #FFFFFF;
-        height: 100vh
+        min-height: 100vh
     }
     
     .main-section .p-5 {
@@ -168,3 +168,41 @@
         font-size: 1rem;
     }
     /**************** END OF Footer ****************/
+    
+    @media (min-width: 1199.98px) {
+        .main-section .p-5 {
+            margin-left: 9vw;
+        }
+    }
+    
+    @media (max-width: 1199.98px) {
+        .main-section .p-5 {
+            margin-left: 9vw;
+        }
+    }
+    
+    @media (max-width: 991.98px) {
+        .main-section .p-5 {
+            margin-left: 2vw;
+        }
+    }
+    
+    @media (max-width: 767.98px) {
+        .container-fluid {
+            max-width: 100%;
+        }
+        .main-section .p-5 {
+            margin-left: 0;
+            text-align: center;
+        }
+    }
+    
+    @media (max-width: 575.98px) {
+        .container-fluid {
+            max-width: 80%;
+        }
+        .main-section .p-5 {
+            margin-left: 0;
+            text-align: center;
+        }
+    }
