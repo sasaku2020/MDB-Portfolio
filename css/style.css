@@ -183,7 +183,7 @@
     
     @media (max-width: 991.98px) {
         .main-section .p-5 {
-            margin-left: 2vw;
+            margin-left: 2rem;
         }
     }
     
@@ -202,6 +202,7 @@
             max-width: 80%;
         }
         .main-section .p-5 {
+            margin-top: 5vh;
             margin-left: 0;
             text-align: center;
         }
