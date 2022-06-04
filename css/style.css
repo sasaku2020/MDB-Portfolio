@@ -125,6 +125,24 @@
         font-weight: 700;
         font-size: 5rem;
     }
+    
+    .time {
+        position: absolute;
+        right: 2rem;
+        top: 10rem;
+    }
+    
+    .time img {
+        width: auto;
+        height: 50vh;
+        transition: all .7s ease;
+        z-index: 0;
+    }
+    
+    .time img:hover {
+        transform: scale(1.4);
+        z-index: 5;
+    }
     /**************** END First SECTION ****************/
     /*
     *
