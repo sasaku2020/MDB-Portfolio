@@ -129,18 +129,19 @@
     .time {
         position: absolute;
         right: 2rem;
-        top: 10rem;
+        bottom: 5rem;
     }
     
     .time img {
         width: auto;
-        height: 50vh;
-        transition: all .7s ease;
+        height: 10vh;
+        transition: all 1s ease;
         z-index: 0;
     }
     
     .time img:hover {
-        transform: scale(1.4);
+        width: auto;
+        height: 70vh;
         z-index: 5;
     }
     /**************** END First SECTION ****************/
