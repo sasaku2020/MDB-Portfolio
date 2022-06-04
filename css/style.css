@@ -76,8 +76,7 @@
     }
     
     .card:hover {
-        transform: scale(1.3);
-        opacity: .8;
+        opacity: .9;
     }
     
     .card-icons {
@@ -87,8 +86,8 @@
         color: #0B3EF0;
     }
     
-    .second-section-h,
-    .third-section-h,
+    .services-h,
+    .projects-h,
     .forth-section-h {
         font-size: 3rem;
         margin: 3rem auto;
@@ -98,8 +97,8 @@
     }
     
     .main-section,
-    .third-section,
-    .second-section,
+    .projects,
+    .services,
     .forth-section {
         padding: 3rem 0;
     }
@@ -126,34 +125,34 @@
         font-weight: 700;
         font-size: 5rem;
     }
-    /**************** END OF SECOND SECTION ****************/
+    /**************** END First SECTION ****************/
     /*
     *
     *
     *
     *
     */
-    /**************** SECOND SECTION ****************/
+    /**************** services SECTION ****************/
     
-    .second-section,
+    .services,
     .forth-section {
         background-color: #FFFFFF;
     }
-    /**************** END OF SECOND SECTION ****************/
+    /**************** END OF services SECTION ****************/
     /*
     *
     *
     *
     *
     */
-    /**************** Third SECTION ****************/
+    /**************** projects SECTION ****************/
     
     .main-section,
-    .third-section,
+    .projects,
     footer {
         background-color: #000025;
     }
-    /**************** END OF Third SECTION ****************/
+    /**************** END OF projects SECTION ****************/
     /**************** END OF Main ****************/
     /*
     *
